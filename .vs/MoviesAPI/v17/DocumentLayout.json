@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\davi.mateus\\Desktop\\C#\\MoviesAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D72E06FE-BC1D-4B34-AACD-97FF29A4DCFD}|MoviesAPI\\MoviesAPI.csproj|c:\\users\\davi.mateus\\desktop\\c#\\moviesapi\\moviesapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72E06FE-BC1D-4B34-AACD-97FF29A4DCFD}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72E06FE-BC1D-4B34-AACD-97FF29A4DCFD}|MoviesAPI\\MoviesAPI.csproj|c:\\users\\davi.mateus\\desktop\\c#\\moviesapi\\moviesapi\\controllers\\movietheatercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72E06FE-BC1D-4B34-AACD-97FF29A4DCFD}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\controllers\\movietheatercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\davi.mateus\\Desktop\\C#\\MoviesAPI\\MoviesAPI\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "MoviesAPI\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\davi.mateus\\Desktop\\C#\\MoviesAPI\\MoviesAPI\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "MoviesAPI\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:18:11.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieTheaterController.cs",
+              "DocumentMoniker": "C:\\Users\\davi.mateus\\Desktop\\C#\\MoviesAPI\\MoviesAPI\\Controllers\\MovieTheaterController.cs",
+              "RelativeDocumentMoniker": "MoviesAPI\\Controllers\\MovieTheaterController.cs",
+              "ToolTip": "C:\\Users\\davi.mateus\\Desktop\\C#\\MoviesAPI\\MoviesAPI\\Controllers\\MovieTheaterController.cs",
+              "RelativeToolTip": "MoviesAPI\\Controllers\\MovieTheaterController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:09:50.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
